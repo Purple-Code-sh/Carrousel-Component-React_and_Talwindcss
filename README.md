@@ -12,4 +12,4 @@
 * When you go to use it (into another file, *import*) put it in a **div** and give a ***height and width*** to that div. This is important because the component has characteristics to adjust its size to its father size.
 
 ## How to use:
-Just copy and paste the code in your project
+Just copy and paste the code in a new file on your project
