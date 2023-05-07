@@ -3,7 +3,9 @@
 
 * Have TailwindCss on your react project.
 * Read all the comments on the file.
-_
+
+:+1:
+
 * You need to install an icon library using: npm install react-icons
 * Import your own images or it wont work.
 * The images array can be modified at your convenience.
